@@ -37,7 +37,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Netflix custom property
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.netflix.bsp_rev=Q845-05000-1
+    ro.netflix.bsp_rev=Q670-14477-1
 
 # Perf
 PRODUCT_PROPERTY_OVERRIDES += \
